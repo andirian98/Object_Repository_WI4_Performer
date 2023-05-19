@@ -1,0 +1,12 @@
+﻿{
+  "Id": "pt4ADjdGoUed3CpcjSRGjQ",
+  "Reference": "xmb-hYKywkua6oGoUdF5DQ/pt4ADjdGoUed3CpcjSRGjQ",
+  "ParentRef": "xmb-hYKywkua6oGoUdF5DQ/vdRaAtPwwESGaZmW45K2HA",
+  "Name": "Edge: ACME System 1 - Work Items",
+  "Type": "Screen",
+  "Created": "2022-11-04T08:10:13.9431473Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-04T08:10:13.9431473Z"
+}

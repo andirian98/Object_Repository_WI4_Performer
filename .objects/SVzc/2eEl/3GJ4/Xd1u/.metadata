@@ -1,0 +1,13 @@
+﻿{
+  "Id": "Xd1uaNiJs0iIax159B_EyQ",
+  "Reference": "xmb-hYKywkua6oGoUdF5DQ/Xd1uaNiJs0iIax159B_EyQ",
+  "ParentRef": "xmb-hYKywkua6oGoUdF5DQ/3GJ4sDSMO02ZZW8SRtqt-Q",
+  "Name": "January",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-11-07T02:07:06.2662345Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-07T02:07:06.2662345Z"
+}

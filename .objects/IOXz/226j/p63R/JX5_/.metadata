@@ -1,0 +1,13 @@
+﻿{
+  "Id": "JX5_QnWmMUq8h8UV1LU0qQ",
+  "Reference": "xmb-hYKywkua6oGoUdF5DQ/JX5_QnWmMUq8h8UV1LU0qQ",
+  "ParentRef": "xmb-hYKywkua6oGoUdF5DQ/p63Rlquz90GpkUOc_1uqfg",
+  "Name": "Select Report File",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-11-07T03:49:46.548373Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-07T03:49:46.548373Z"
+}

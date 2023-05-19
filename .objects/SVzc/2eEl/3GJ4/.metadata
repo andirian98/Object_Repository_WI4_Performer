@@ -1,0 +1,12 @@
+﻿{
+  "Id": "3GJ4sDSMO02ZZW8SRtqt-Q",
+  "Reference": "xmb-hYKywkua6oGoUdF5DQ/3GJ4sDSMO02ZZW8SRtqt-Q",
+  "ParentRef": "xmb-hYKywkua6oGoUdF5DQ/2eEl3Y-O7UO4v87WsJAbkg",
+  "Name": "Edge: ACME System 1 - Download Monthly Report",
+  "Type": "Screen",
+  "Created": "2022-11-07T02:07:06.203287Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-07T02:07:06.203287Z"
+}

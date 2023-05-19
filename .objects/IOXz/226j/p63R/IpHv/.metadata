@@ -1,0 +1,13 @@
+﻿{
+  "Id": "IpHvUz3j-Uad3RqVCUBaxg",
+  "Reference": "xmb-hYKywkua6oGoUdF5DQ/IpHvUz3j-Uad3RqVCUBaxg",
+  "ParentRef": "xmb-hYKywkua6oGoUdF5DQ/p63Rlquz90GpkUOc_1uqfg",
+  "Name": "File &name",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-11-07T03:49:46.6970981Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-07T03:49:46.6970981Z"
+}

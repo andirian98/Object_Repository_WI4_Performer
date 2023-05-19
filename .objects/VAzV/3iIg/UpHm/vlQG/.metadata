@@ -1,0 +1,13 @@
+﻿{
+  "Id": "vlQGotRHgkGGuwVVngn2Jg",
+  "Reference": "xmb-hYKywkua6oGoUdF5DQ/vlQGotRHgkGGuwVVngn2Jg",
+  "ParentRef": "xmb-hYKywkua6oGoUdF5DQ/UpHmGzleg0KsbS6TEoc4Sw",
+  "Name": "push button OK",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-11-07T03:02:15.1871488Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-07T03:02:15.1871488Z"
+}

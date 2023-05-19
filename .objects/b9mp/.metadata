@@ -1,0 +1,11 @@
+﻿{
+  "Id": "b9mpxlJM-06YB3NnDMHo9A",
+  "Reference": "xmb-hYKywkua6oGoUdF5DQ/b9mpxlJM-06YB3NnDMHo9A",
+  "Name": "msedge.exe app",
+  "Type": "App",
+  "Created": "2022-11-07T03:05:28.126243Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-07T03:05:28.126243Z"
+}

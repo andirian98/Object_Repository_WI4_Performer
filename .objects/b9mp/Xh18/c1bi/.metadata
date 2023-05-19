@@ -1,0 +1,12 @@
+﻿{
+  "Id": "c1bi4AH5ZkGrU0gspvvOyQ",
+  "Reference": "xmb-hYKywkua6oGoUdF5DQ/c1bi4AH5ZkGrU0gspvvOyQ",
+  "ParentRef": "xmb-hYKywkua6oGoUdF5DQ/Xh18xNot_U2E-kENVhosbg",
+  "Name": "msedge.exe",
+  "Type": "Screen",
+  "Created": "2022-11-07T03:05:28.1426266Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-07T03:05:28.1426266Z"
+}

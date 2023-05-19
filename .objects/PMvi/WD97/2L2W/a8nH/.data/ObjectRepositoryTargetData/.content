@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="MDdMHznLgUOP57bTvrFajQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/reports/download" DesignTimeRectangle="358, 502, 8, 4" DesignTimeScaleFactor="1" FriendlyName="'SPAN'" FullSelectorArgument="&lt;webctrl class='caret' parentid='searchForm' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl class='caret' parentid='searchForm' tag='SPAN' type='' aaname='' /&gt;" Guid="2a5e7bfe-ac27-4aaa-9fe2-3d129d5c8a02" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAAwAAAAICAYAAADN5B7xAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAA6SURBVChTY/hPIiBfw5kzZ/7PnDkTKwbJwQCKDdg0ISsGAQwnIWtCVwwCWP0AUohNMQiQ72niwP//APPha3DOc7gTAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Download Monthly Report' /&gt;" SearchSteps="FuzzySelector, Image" Version="V1" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="159, 462, 47, 20" ElementType="Text" FriendlyName="'Month'" FullSelectorArgument="&lt;webctrl aaname='Month:' tag='LABEL' /&gt;" FuzzySelectorArgument="&lt;webctrl aaname='Month:' tag='LABEL' type='' class='' check:innerText='Month:' /&gt;" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAADMAAAAYCAYAAABXysXfAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAE+SURBVFhH7ZQNDoMgDIV3J84lVyHeBE9iPIaJd+j4aaEg6Excxgwv6bIV7OtXYS94kDpMq+owrarDtKoIs2qQQoBwIUGvmLeaFeZNDBo2TN+jBZRQ5tNrm6TzkdN1lwqMADVj3mgZY/5eGAti634ZRoxUngwxEpgN9MDWWFNWNAQ18dq0J6trwg6Qw8Qhpicl1GUDt9rDDAqUaxBNMS9HhesEk4NQROPkjfJwgzqG2QUb4gUYDYsr6Jvyxc33Oa67onSPmEloBN9qgKG3vHumfsyO9tRUhNnQVE4LTt8U4utme3k6aFzdk66XGuXHDDOxB8zUVIYJptLn7GQzGDL9A5j0PrjCGcyVY/ZjGNYYXegcJpjksf8DOIfxYQE+gSkf8QOY099OOVA6vXMYPrQ7YR6gDtOqOkyr6jBtCuAN4vIxtm3iRTYAAAAASUVORK5CYII=" SearchSteps="FuzzySelector, Image" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9a4108abc0a3176595932961b3e94945.png" xmlns="">0R4vv3q6zkEezDRBYhgoWcg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

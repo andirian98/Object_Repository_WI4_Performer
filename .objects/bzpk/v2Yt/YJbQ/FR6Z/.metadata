@@ -1,0 +1,13 @@
+﻿{
+  "Id": "FR6ZGSJZ8UyEy1Btfs-bcg",
+  "Reference": "xmb-hYKywkua6oGoUdF5DQ/FR6ZGSJZ8UyEy1Btfs-bcg",
+  "ParentRef": "xmb-hYKywkua6oGoUdF5DQ/YJbQQL4lSE-brDeDZPEhOg",
+  "Name": "&Save",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-11-07T03:06:11.0471952Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-07T03:06:11.0471952Z"
+}

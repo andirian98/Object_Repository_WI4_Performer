@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wrVFzb9x0EumC96uofVUQA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="470, 434, 88, 26" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'&amp;Open'" FullSelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Open' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Open' check:text='&amp;amp;Open' /&gt;" Guid="329233da-e119-45fd-adb6-b97841758929" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAFwAAAAeCAYAAAChf3k/AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGSSURBVGhD7dk9coMwEIZhrqUD6Tw6jZqYG9DAUMENzFBwAJiNP/4shDAJwbLIbPEWwUDxSOxkRlHTNMT5i8E9x+CeW4FXVUVFUVCWZZSmKXcg2MEQlrbvAhw35HlOdV1T27bUdR13INjBEJY2+gIcq4IbXS/hfh8sYWoaL8DxKfDOPi9YwtQ0XoBj/rge5I4HU9OYwd8cg3suTHAtKYqiOaFK930XLDzwHluQKqdrJSnxf9ADAx9wpbaul4pEJEmb1y5aWOCbsFiIaddrkvgCNO51jJz+HdM4mt41PqOeo+pTX0x44EJRufrN3PnAe6BN9/XA1mJM4+gxngbY8Rmp5+vPxfDbdXf4POM70nJcjMXuHuuR7WfW7/BVWOA/muE2lvHM5oIx+Harzx045sy1/l4thms+M/jrrP/Dlzt+wJJSuH+3xwqPlL/2OawzYnDPMbjnLgh+7V6C8wHEue0eQPAR27ntHrHxIfI5wQ6Gu4fI6H6/U5IkFMcxfd1u3IFgB0NY2r4rcO69MbjnGNxrDX0DlMvq5PHOynQAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='#32770' title='Open' /&gt;" SearchSteps="Selector, Image" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6d3917af4fade2a91f72e8755c90be82.png" xmlns="">0HeQ36iCgZUqR5nAKbB7avg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

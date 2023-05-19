@@ -1,0 +1,13 @@
+﻿{
+  "Id": "wHV9-_CPlkWPoXi1AMPKtw",
+  "Reference": "xmb-hYKywkua6oGoUdF5DQ/wHV9-_CPlkWPoXi1AMPKtw",
+  "ParentRef": "xmb-hYKywkua6oGoUdF5DQ/p63Rlquz90GpkUOc_1uqfg",
+  "Name": "&Open",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-11-07T03:49:46.6349453Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-07T03:49:46.6349453Z"
+}

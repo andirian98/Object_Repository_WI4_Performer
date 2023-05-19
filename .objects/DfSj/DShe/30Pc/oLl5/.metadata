@@ -1,0 +1,13 @@
+﻿{
+  "Id": "oLl5ymf7VEaceot9FE7_Ew",
+  "Reference": "xmb-hYKywkua6oGoUdF5DQ/oLl5ymf7VEaceot9FE7_Ew",
+  "ParentRef": "xmb-hYKywkua6oGoUdF5DQ/30PcMS1PBEGVyE7sC7MiSg",
+  "Name": "New Status",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2023-01-31T03:26:25.4526656Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-31T03:26:25.4526656Z"
+}

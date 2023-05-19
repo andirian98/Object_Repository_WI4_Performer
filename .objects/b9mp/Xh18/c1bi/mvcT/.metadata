@@ -1,0 +1,13 @@
+﻿{
+  "Id": "mvcT8ud09EWrPvVjidaolw",
+  "Reference": "xmb-hYKywkua6oGoUdF5DQ/mvcT8ud09EWrPvVjidaolw",
+  "ParentRef": "xmb-hYKywkua6oGoUdF5DQ/c1bi4AH5ZkGrU0gspvvOyQ",
+  "Name": "Save as",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-11-07T03:05:28.2205456Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-07T03:05:28.2205456Z"
+}

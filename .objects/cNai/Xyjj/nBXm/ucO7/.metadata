@@ -1,0 +1,13 @@
+﻿{
+  "Id": "ucO7YNBofUS44uQOmBKQEw",
+  "Reference": "xmb-hYKywkua6oGoUdF5DQ/ucO7YNBofUS44uQOmBKQEw",
+  "ParentRef": "xmb-hYKywkua6oGoUdF5DQ/nBXmwFiHTU2QPRQ5cHO7rQ",
+  "Name": "Download PDF Invoice",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-11-04T07:29:36.1503156Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-04T07:29:36.1503156Z"
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="8XAj63nsCkuJ019nrpxA6g" Reference="xmb-hYKywkua6oGoUdF5DQ/yMgm4Jm8KE2OLDQeOpKn2A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/reports/upload" DesignTimeRectangle="8, 122, 0, 0" DesignTimeScaleFactor="1" ElementType="Text" FriendlyName="'---'" FullSelectorArgument="[string.Format(&quot;&lt;webctrl aaname='{0}' aria-role='option' tag='A' /&gt;&quot;, yearVendor)]" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl aaname='{0}' aria-role='option' tag='A' type='' class='' check:text='---' /&gt;&quot;, yearVendor)]" Guid="65b59e57-c3fd-4948-aa95-66d8c500f1e3" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAfSURBVBhXY4CB/fv3/wdhKBeLgJKS0n8QhnJhAkr/AaJIEoXRT3qSAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='msedge.exe' title='ACME System 1 - Upload Yearly Report' /&gt;" SearchSteps="Selector" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f42915f4b76a749ee7e2207bc8967fc2.png" xmlns="">0buCe0k_QAE63Y8LnbgMcJw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData DefaultValue="*" Name="yearVendor" />
+    </scg:List>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

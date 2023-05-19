@@ -1,0 +1,13 @@
+﻿{
+  "Id": "4Tgy7pjLgEOeW6xJig4hXw",
+  "Reference": "xmb-hYKywkua6oGoUdF5DQ/4Tgy7pjLgEOeW6xJig4hXw",
+  "ParentRef": "xmb-hYKywkua6oGoUdF5DQ/69VBUTjQeUuRUOZc9c73lQ",
+  "Name": "Upload Report",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-11-07T03:50:08.4429394Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-11-07T03:50:08.4429394Z"
+}

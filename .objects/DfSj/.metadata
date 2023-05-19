@@ -1,0 +1,11 @@
+﻿{
+  "Id": "DfSj2-HUN02W2nsGSw_yUw",
+  "Reference": "xmb-hYKywkua6oGoUdF5DQ/DfSj2-HUN02W2nsGSw_yUw",
+  "Name": "Edge: ACME System 1 app",
+  "Type": "App",
+  "Created": "2023-01-31T03:26:25.21215Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-31T03:26:25.21215Z"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Id": "30PcMS1PBEGVyE7sC7MiSg",
+  "Reference": "xmb-hYKywkua6oGoUdF5DQ/30PcMS1PBEGVyE7sC7MiSg",
+  "ParentRef": "xmb-hYKywkua6oGoUdF5DQ/DSheWRfSe0SOBimMR8tKNQ",
+  "Name": "Edge: ACME System 1",
+  "Type": "Screen",
+  "Created": "2023-01-31T03:26:25.2548381Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-01-31T03:26:25.2548381Z"
+}

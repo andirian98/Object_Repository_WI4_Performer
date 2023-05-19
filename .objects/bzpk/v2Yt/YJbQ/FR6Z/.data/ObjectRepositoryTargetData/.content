@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="t28jclqiZk-WtIVhaqHDqA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="470, 434, 88, 26" DesignTimeScaleFactor="1" ElementType="Button" FriendlyName="'&amp;Save'" FullSelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Save' /&gt;" FuzzySelectorArgument="&lt;wnd ctrlid='1' title='&amp;amp;Save' check:text='&amp;amp;Save' /&gt;" Guid="fce1e52a-dc75-43a3-9305-6046e81d8de0" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAFwAAAAeCAYAAAChf3k/AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGqSURBVGhD7ZnNjYMwEEZpywW5Hlfjy4YOuIA4QQcgDhQAmvXHT2KDd9Ei4hjtHJ4C8TiH5/HnSE76vicmHCw8MCw8MDvhbdtSVVVUFAXlec6cAO7gEC63fh3hKCjLkrquo2EYaBxH5gRwB4dwuZXuCMeqoND3I8zfgUs4tR07wrEVuLOvAy7h1HbsCEf++CYy54FT2zELfzMsPDBxC9eSkiRZkKR9NTcjXuG1ImFLNu9KW+M3JV7h6G6hqPaN3Zh4hY+apIkSoerdmJZrzBikNt/VpERC0t4B9oJNuyWOaIpYOJhFQpQj8wkWRZCqzTMET/LnMSzKPMeqwZip8y1iKCIXvrB06FO6c5iuMiF27V7z7O3uBWthQnMP4YZaiVmUc5hiB7y6FzXo3vVzmuvUf554hWvzr2SNgSVaJom7bLbiAu9Cmu62Bf98FnyCiDt8FrWPgVeuJ5NcS/g6to2MbaxwpPwfWHhgWHhgWHhgfhXOFxDXcngBwVds13J4xcaXyNcAd3B4eIkMmqahLMsoTVP6ejyYE8AdHMLl1u9OOPNeWHhgWHhQevoGy0YYl6+aNIgAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='#32770' title='Save As' /&gt;" SearchSteps="Selector, FuzzySelector, Image" Version="V1" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="50b43f17efda771f5092e2a36c398298.png" xmlns="">06EYUDMTK3km_mPkKqUIatg</imageRef>
+    </TargetAnchorable>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
